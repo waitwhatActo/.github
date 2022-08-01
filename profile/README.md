@@ -1,3 +1,3 @@
-welcome to rantodd
-we make ranking bot
-ye
+Welcome to RanTodd!
+
+Well uhhhh @dongle pls
