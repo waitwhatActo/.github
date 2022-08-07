@@ -1,3 +1,5 @@
 Welcome to RanTodd!
 
-Well uhhhh @dongle pls
+My name is Sapphire and I'll be your tour guide.
+
+We're lost.
