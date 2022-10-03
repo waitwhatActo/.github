@@ -1,5 +1,5 @@
 # Ranker
-Ranker is a Discord ranking bot. It offers two rank card styles and a leaderboard.
+Ranker - the ranking bot that makes switching magical, customisable, and completely open.
 
 # Want to invite our public bot?
 You can invite our bot from [here.](https://discord.com/api/oauth2/authorize?client_id=900792023206989854&permissions=268445697&scope=bot%20applications.commands)
