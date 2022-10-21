@@ -4,6 +4,15 @@ Ranker - the ranking bot that makes switching magical, customisable, and complet
 # Want to visit our website?
 You can do it from [https://rankerbot.xyz](https://rankerbot.xyz).
 
+# Notice
+The bot is compromised by SimpleBear#2721 (or @itsWindows11). I originally decided to give the whole story but then I removed it thinking they would stop caring about the bot.
+
+Though, raiders like them don't change. After I did that, considering I forgot to remove the invites from the website and repository, they restored the Ranker bot profile to deceive people (it was one that said "Compromised by SimpleBear" before) and reset the token so I can't stop them (they removed my Control Panel access).
+
+So please *DO NOT* invite the bot if you see any invite link.
+
+I will be working in getting a new bot account soon, Ranker#9049 (900792023206989854) is the compromised one.
+
 # Want to invite our public bot?
 You can invite our bot from [here.](https://discord.com/api/oauth2/authorize?client_id=later&permissions=268445697&scope=bot%20applications.commands)
 
